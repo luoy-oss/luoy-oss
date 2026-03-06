@@ -1,4 +1,4 @@
-<img align="right" src="https://github-profile-views-counter.drluo.top/luo-oss/count.svg">
+<img align="right" src="https://github-profile-views-counter.drluo.top/luoy-oss/count.svg">
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=luoy-oss&color=edb641&style=for-the-badge) -->
